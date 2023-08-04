@@ -1,1 +1,10 @@
 # Minimum Triangle Paths
+
+## How to run:
+
+```
+sbt 'run "7
+6 3
+3 8 5
+11 2 10 9"'
+```
